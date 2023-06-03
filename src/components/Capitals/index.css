@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.container {
+  background-color: #93c5fd;
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 15px;
+}
+.select-container {
+  display: flex;
+}
+.capital-select {
+  width: 200px;
+  height: 40px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+.country {
+  font-weight: bold;
+}
